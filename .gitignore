@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+
+# Local/runtime files
+*.log
+*.sql.bak
+vendor/
+
+# Private key and certificate bundle files
+*.key
+*.p12
+*.pfx
